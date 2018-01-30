@@ -1,6 +1,17 @@
 .App {
   text-align: center;
 }
+html{
+height:100%;
+}
+
+#root{
+    height:auto;
+    max-height:150%;
+    overflow:auto;
+}
+
+
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
